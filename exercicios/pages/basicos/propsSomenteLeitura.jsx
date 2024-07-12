@@ -1,8 +1,8 @@
 import SomaUm from "@/components/SomaUm";
 
 export default function propsSomenteLeitura(){
-    return (
+   // return (
     //   //<SomaUm numero=99/>
     //   <SomaUm numero=100></SomaUm>
-    )
+   // )
 }
